@@ -6,7 +6,7 @@ git是两重结构管理，本地库和远程库。
 
 ### git本地结构
 
-![local](/Users/curtis/github/gitstudy/resource/local.jpg)
+![local](./resource/local.jpg)
 
 **工作区** 就是普通的文件，不受git版本控制，比如在本地工作中新建和修改的文件。
 
